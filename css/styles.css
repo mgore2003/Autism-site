@@ -1,0 +1,43 @@
+/*
+Author: Mark Gore
+Date: 09/22/2023
+File name: styles.css
+*/
+
+/* CSS Reset */
+body, header, nav, main, footer, h1, p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* Style rule for alignment */
+body, header, nav, main, footer, h1, p {
+	text-align: center;
+}
+
+/* Style rule for navigation links */
+
+nav li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #D70040;
+}
+
+h1{
+	color: #D70040;
+}
+main p {
+	color: #D70040;
+}
+
+
+.emphasis {
+	font-weight: bold;
+	color: #D70039;
+}
+
+
+footer {
+	color: #D70041;
+}
